@@ -1,0 +1,3 @@
+desired 속도를 줬을 때 원하는 position만큼 가면 멈추는 코드 작성.
+문제: V-rep안에서 속도와 position을 동시에 제어할 수 없어 
+속도 제어에 while문으로 position 조건문을 만든 상황.
