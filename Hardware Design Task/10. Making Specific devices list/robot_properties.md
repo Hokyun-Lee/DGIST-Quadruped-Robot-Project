@@ -1,15 +1,22 @@
-450W ¸®Æ¬Æú¸®¸Ó ¹èÅÍ¸® : 2½Ã°£ °¨  
+450W ë¦¬íŠ¬í´ë¦¬ë¨¸ ë°°í„°ë¦¬ : 2ì‹œê°„ ê°  
 
-7.67 : 1 ±â¾îºñÀÇ Àü±â¸ðÅÍ·Î ±¸¼º  
+7.67 : 1 ê¸°ì–´ë¹„ì˜ ì „ê¸°ëª¨í„°ë¡œ êµ¬ì„±  
 
-ÇÏºÎ¸µÅ©¶û »óºÎ¸µÅ©¶û ·Ñ·¯ Ã¼ÀÎ : Å¸ÀÌ¹Öº§Æ®¿¡ ÀÇÇØ ±¸µ¿µÇ¾î 1.15¹è ±â¾î °¨¼Ò  
+í•˜ë¶€ë§í¬ëž‘ ìƒë¶€ë§í¬ëž‘ ë¡¤ëŸ¬ ì²´ì¸ : íƒ€ì´ë°ë²¨íŠ¸ì— ì˜í•´ êµ¬ë™ë˜ì–´ 1.15ë°° ê¸°ì–´ ê°ì†Œ  
 
-ÆÈÀº 330µµ È¸Àü°¡´É  
+íŒ”ì€ 330ë„ íšŒì „ê°€ëŠ¥  
 
-´Ù¸®´Â °¡°øµÈ ¾Ë·ç¹Ì´½, 4°³ ÇÕÃÄ¼­ ¹«°Ô°¡ 2.7kg. ÀüÃ¼ ¹«°ÔÀÇ 6%  
+ë‹¤ë¦¬ëŠ” ê°€ê³µëœ ì•Œë£¨ë¯¸ëŠ„, 4ê°œ í•©ì³ì„œ ë¬´ê²Œê°€ 2.7kg. ì „ì²´ ë¬´ê²Œì˜ 6%  
 
-°¢ ´Ù¸®ÀÇ ³¡¿¡´Â 10mm 60A µÎ²²ÀÇ ¿ì·¹Åº °í¹« µ¤°³  
+ê° ë‹¤ë¦¬ì˜ ëì—ëŠ” 10mm 60A ë‘ê»˜ì˜ ìš°ë ˆíƒ„ ê³ ë¬´ ë®ê°œ  
 
-max torque : 230Nm  
-
+Mass : 45 kg  
+Body Inertia : Ixx : 0.35 kg * m^2  
+               Iyy : 2.1 kg * m^2  
+               Izz : 2.1 kg * m^2  
+Body Length lbody : 0.600 m
+Body Width wbody : 0.256 m
+Body Height hbody : 0.200 m
+Leg Link Lengths : 0.34 m
+max torque : 230 Nm  
 max joint speed : 21 Rad/s  
