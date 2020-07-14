@@ -1,0 +1,4 @@
+-Purpose of this task-
+OpenCR의 CAN port를 활용하기 위해서 사용해야 하는 함수 및 변수를 분석함.
+
+-Problem-

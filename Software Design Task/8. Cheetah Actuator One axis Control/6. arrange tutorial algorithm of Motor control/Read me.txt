@@ -1,0 +1,16 @@
+-Purpose of this task-
+Motor tutorial을 진행했던 OpenCR 제어코드를 앞으로의 제어에 편리하도록 정리함.
+	정리할 것
+	 1. 모터 제어를 위한 기본 변수(tarTor, tarPos, tarSpe 등)를 코드 맨 앞에 몰아서 정리할 것.
+	 2. 모터드라이버로부터 받아오는 Response는 Ploting 함수에 몰아서 정리할 것.
+	 3. Ploting함수에 모터드라이버로부터 받아오는 Response를 번역하여 출력하는 코드를 추가할 것.
+	 4. Ploting함수의 리턴값으로 ActTor, ActPos, ActSpe를 설정하여, void loop 함수에서 ActTor, ActPos, ActSpe를 피드백 받을 수 있도록 조치할 것.
+	 5. 모터드라이버에게 보내는 Transmit message 설정 및 message 전송작업은 Controling 함수에 몰아서 정리할 것.
+	 6. Controling 함수는 10진수 tarTor, tarPos, tarSpe를 parameter로 받아서 16진수 Transmit message로 변환하는 작업을 처리할 것.
+	 7. void loop 함수는 Ploting함수 실행, 10진수 tarTor, tarPos, tarSpe를 입력받고 Controling 함수 실행의 task를 처리함.
+
+-Problem-
+1. tutorial에서 설명하는 CANbus packet을 기반으로 모터제어코드를 작성하였으나, absolute encoder의 원점(기준점)이 계속 변경되는 문제점이 발생함.
+2. 10진수 tarTor, tarPos, tarSpe를 parameter로 받아서 16진수 Transmit message로 변환하는 작업이 원활히 이루어지지 않는 문제점이 발생함.
+3. Response를 번역하여 출력하는 코드가 원활히 이루어지지 않는 문제점이 발생함.
+4. void loop 함수에서 ActTor, ActPos, ActSpe가 피드백 받아지지 않음.

@@ -1,0 +1,4 @@
+-Purpose of this task-
+https://www.youtube.com/watch?v=ecSQZlNda6g 의 튜토리얼을 시청하고, 동영상에서 나오는 코드를 OpenCR CAN port에 맞게 변형하여 Motor tutorial을 진행함.
+
+-Problem-

@@ -1,0 +1,5 @@
+-Purpose of this task-
+OpenCR을 통해 One axis, Multiaxises Motor Control을 진행하기 위해서 필요한 물품들을 찾아봄.
+
+-Problem-
+MIT Cheetah Actuator의 CAN port의 규격을 찾기가 힘들었음. -> https://ko.aliexpress.com/i/10000135127584.html?spm=a2g12.12057483.0.0.62c25115acVJWf 주소에서 모터 후면의 스티커 사진의 GH1.25를 통해 규격을 확인함. (해결됨)
