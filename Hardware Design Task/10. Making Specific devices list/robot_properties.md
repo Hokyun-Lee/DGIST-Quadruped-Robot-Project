@@ -10,6 +10,8 @@
 
 각 다리의 끝에는 10mm 60A 두께의 우레탄 고무 덮개  
 
+### Robot cad image & setting
+
 Mass : 45 kg  
 Body Inertia : Ixx : 0.35 kg * m^2  
                Iyy : 2.1 kg * m^2  
@@ -20,3 +22,5 @@ Body Height hbody : 0.200 m
 Leg Link Lengths : 0.34 m  
 max torque : 230 Nm  
 max joint speed : 21 Rad/s  
+
+![](https://github.com/DGIRobo/DGIST-Quadruped-Robot-Project/blob/master/Picture/mini_cheetah_cad_diagram.JPG)
