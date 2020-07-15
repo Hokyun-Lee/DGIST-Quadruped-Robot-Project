@@ -3,7 +3,7 @@
 * 4족 로봇의 보행을 위한 trajectory를 생성하는 algorithm을 연구하는 과정을 담고있습니다.
 <br>
 
-## 07/14(화요일)
+## 2020/07/14(화요일)
 논문 조사
 > MIT cheetah 논문
 * [Implementation of trot-to-gallop transition and subsequent gallop on the MIT Cheetah I](https://journals.sagepub.com/doi/full/10.1177/0278364916640102)
@@ -15,7 +15,7 @@
 * [4족 로봇의 보행 걸음새 생성 및 보행 안정성 판별](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE00842993)
 * [4족 로봇의 에너지 효율 향상을 위한 허리 모션이 추가된 보행 패턴 생성 알고리즘](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08000345)
 
-## 07/15(수요일)
+## 2020/07/15(수요일)
 논문 조사 (Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control 에서 인용하고 있는 논문)
 > MIT cheetah 논문
 * [High-speed bounding with the MITCheetah 2: Control design andexperiments](https://journals.sagepub.com/doi/full/10.1177/0278364917694244) <br>
