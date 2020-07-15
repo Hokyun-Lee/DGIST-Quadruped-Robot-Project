@@ -7,7 +7,7 @@
 > MIT cheetah 논문
 * [Implementation of trot-to-gallop transition and subsequent gallop on the MIT Cheetah I](https://journals.sagepub.com/doi/full/10.1177/0278364916640102)
 * [MIT Cheetah 3: Design and Control of a Robust, Dynamic Quadruped Robot](https://ieeexplore.ieee.org/document/8593885)
-* [Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control](https://ieeexplore.ieee.org/document/8594448)
+* [**Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control**](https://ieeexplore.ieee.org/document/8594448)
 > 국내 논문
 * [동역학적 방법을 이용한 4족 로봇의 트롯 궤적 생성](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02365854)
 * [Force tracking 을 이용한 4 족 보행로봇의 안정한 갤로핑](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01551853)
