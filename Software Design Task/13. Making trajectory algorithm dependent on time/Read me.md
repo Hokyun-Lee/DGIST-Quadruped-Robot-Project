@@ -3,6 +3,8 @@
 * 4족 로봇의 보행을 위한 trajectory를 생성하는 algorithm을 연구하는 과정을 담고있습니다.
 
 ### 07/14(화요일)
-### 논문 조사
-
+> 논문 조사
+>> 국내 논문
 * [동역학적 방법을 이용한 4족 로봇의 트롯 궤적 생성](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02365854)
+
+> 조사 논문
