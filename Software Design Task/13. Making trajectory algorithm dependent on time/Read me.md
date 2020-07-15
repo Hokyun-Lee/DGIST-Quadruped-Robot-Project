@@ -14,3 +14,13 @@
 * [Force tracking 을 이용한 4 족 보행로봇의 안정한 갤로핑](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01551853)
 * [4족 로봇의 보행 걸음새 생성 및 보행 안정성 판별](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE00842993)
 * [4족 로봇의 에너지 효율 향상을 위한 허리 모션이 추가된 보행 패턴 생성 알고리즘](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE08000345)
+
+## 07/15(수요일)
+논문 조사 (Dynamic Locomotion in the MIT Cheetah 3 Through Convex Model-Predictive Control 에서 인용하고 있는 논문)
+> MIT cheetah 논문
+* [High-speed bounding with the MITCheetah 2: Control design andexperiments](https://journals.sagepub.com/doi/full/10.1177/0278364917694244) <br>
+
+(더 찾아볼 논문)  <br>
+* G. Bledt, P. M. Wensing, and S. Kim, “Policy-regularized model predictive control to stabilize diverse quadrupedal gaits for the mit cheetah,” in 2017 IEEE International Conference on Intelligent Robots and Systems, 2017.
+* A. W. Winkler, D. C. Bellicoso, M. Hutter, and J. Buchli, “Gait and trajectory optimization for legged systems through phase-based end-effector parameterization,” IEEE Robotics and Automation Letters(RA-L), may 2018.
+* A. W. Winkler, F. Farshidian, D. Pardo, M. Neunert, and J. Buchli, “Fast trajectory optimization for legged robots using vertex-based zmp constraints,” IEEE Robotics and Automation Letters (RA-L), vol. 2, pp. 2201–2208, oct 2017.
