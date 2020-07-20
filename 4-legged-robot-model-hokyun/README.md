@@ -1,4 +1,4 @@
-# 4-legged-robot-model
+# 4-legged-robot-model (코드 안에 주석으로 설명되어 있음. 상위 폴더의 Servo Quadruped Robot python코드 분석_이호균.docx 도 참고 바람!)
 Working on python3
 
 -pybullet and numpy needed to run the simulation.
